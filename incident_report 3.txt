@@ -1,0 +1,35 @@
+NETWORK SECURITY INCIDENT REPORT
+
+Incident ID: NET-001
+Classification: Suspicious Port Activity
+Severity: Medium (Simulated)
+Status: Requires Investigation
+
+SUSPICIOUS IP ADDRESS
+10.0.0.5
+
+DETECTION RESULTS
+Unique destination ports: 4
+Ports: 21, 22, 23, 3389
+
+ANALYSIS
+A simulated source IP accessed four
+different destination ports.
+
+The activity triggered a threshold-based
+alert for possible port scanning.
+
+This does not confirm malicious activity.
+
+RECOMMENDED ACTIONS
+1. Review firewall logs.
+2. Investigate the source IP.
+3. Check connection timestamps.
+4. Examine destination systems.
+5. Escalate if additional evidence
+   indicates malicious activity.
+
+CONCLUSION
+Potential reconnaissance activity
+identified in simulated network data.
+Further investigation is required.
