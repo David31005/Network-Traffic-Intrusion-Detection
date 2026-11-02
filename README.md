@@ -105,8 +105,7 @@ The detection rule is based on a simple threshold of four unique destination por
 
 Future improvements could include timestamp analysis, connection frequency, baseline comparisons, and integration with SIEM tools.
 
-Author
-
+by
 David Jeffries
 
 Cybersecurity Professional Certificate — Google (Completed)
