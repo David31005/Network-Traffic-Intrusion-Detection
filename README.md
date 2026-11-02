@@ -117,4 +117,4 @@ LinkedIn: David Jeffries
 
 ⸻
 
-This project was developed for educational purposes to demonstrate foundational cybersecurity monitoring, threat detection, and incident response skills.
+This project was developed to demonstrate foundational cybersecurity monitoring, threat detection, and incident response skills.
